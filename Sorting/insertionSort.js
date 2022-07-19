@@ -1,7 +1,7 @@
 /*
  * Author: Olutola Oloruntobi Paul
  * Date: 7/18/2022
- * Function for implementing insertion sort aldorithm
+ * Function for implementing insertion sort algorithm
  */
 
 const insertionSort = (arr) => {

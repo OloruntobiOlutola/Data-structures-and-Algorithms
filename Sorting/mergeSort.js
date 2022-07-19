@@ -1,7 +1,7 @@
 /*
  * Author: Olutola Oloruntobi Paul
  * Date: 7/19/2022
- * Function for implementing merge sort aldorithm
+ * Function for implementing merge sort algorithm
  */
 
 const merge = (arr1, arr2) => {
